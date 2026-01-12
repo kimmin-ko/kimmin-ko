@@ -2,10 +2,11 @@
 
 ### 🚀 Metrics & Stats
 <div align="center">
-  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile details" />
-  <br/>
-  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="repos per language" />
-  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="most commit language" />
+  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/solarized/3-stats.svg" width="32%" alt="stats" />
+  
+  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32%" alt="most commit language" />
+
+  <img src="https://github.com/kimmin-ko/kimmin-ko/blob/main/profile-summary-card-output/solarized/4-productive-time.svg" width="32%" alt="productive time" />
 </div>
 
 <br/>
